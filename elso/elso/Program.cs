@@ -21,7 +21,61 @@ namespace elso
             int i = 0;
             Console.WriteLine(++i);
 
+            double szam2 = 1;
+            while (szam2 < 5)
+            {
+                Console.WriteLine(szam2);
+                szam2 += .1;
+            }
+            do
+            {
+                szam2 -= .2;
+                Console.WriteLine(szam2);
+            }
+            while (szam2 > 1);
+            char botu = 'a';
+            while (botu <= 'z') 
+            {
+
+                Console.Write(botu);
+                botu = (char)(botu + 1);
+
+            }
+            Console.WriteLine();
             
+            int szam3 = 32; 
+            while (szam3 < 256)
+            {
+                Console.Write((char)(szam3) + "  ");
+                szam3 += 1;
+                if (szam3 % 8 == 0)
+                {
+                    Console.WriteLine();
+                }
+            }
+            for (int e = 0; e < 10; e++)
+            {
+                //Console.Write(e + " ");       
+            }
+            //Console.WriteLine();
+
+            int szamlalo = 0;
+            for (int e = 100; e < 1000; e++)
+            {
+                szamlalo += e;
+                
+            }
+            Console.WriteLine(szamlalo);
+            for (int x = 9; x > 0; x--)
+            {
+                Console.WriteLine(x);
+            }
+            Console.WriteLine();
+            for (int z = 0; z < 10; z++)
+            {
+                Console.WriteLine(9 - z);
+            } 
+
 
         }
     }

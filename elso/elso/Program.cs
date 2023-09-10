@@ -74,7 +74,32 @@ namespace elso
             for (int z = 0; z < 10; z++)
             {
                 Console.WriteLine(9 - z);
-            } 
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            for (int e = 10; e < 100; e++)
+            {
+                if (e % 5 == 0)
+                {
+                    Console.WriteLine(e);
+                }
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            int szam5 = 10;
+            while (szam5 <= 99)
+            {
+                if (szam5 % 5 == 0)
+                {
+                    Console.WriteLine(szam5);
+                }
+                szam5++;
+
+            }
+
+
 
 
         }

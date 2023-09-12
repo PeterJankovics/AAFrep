@@ -12,3 +12,10 @@ D:\Helyi_munkakönyvtár\AAF\AAFrep\elso\elso\obj\Debug\elso.pdb
 D:\Helyi_munkakönyvtár\AAF\AAFrep\elso\elso\bin\Debug\elso.exe.config
 D:\Helyi_munkakönyvtár\AAF\AAFrep\elso\elso\bin\Debug\elso.exe
 D:\Helyi_munkakönyvtár\AAF\AAFrep\elso\elso\bin\Debug\elso.pdb
+C:\AAF\AAFrep\elso\elso\bin\Debug\elso.exe.config
+C:\AAF\AAFrep\elso\elso\bin\Debug\elso.exe
+C:\AAF\AAFrep\elso\elso\bin\Debug\elso.pdb
+C:\AAF\AAFrep\elso\elso\obj\Debug\elso.csproj.AssemblyReference.cache
+C:\AAF\AAFrep\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+C:\AAF\AAFrep\elso\elso\obj\Debug\elso.exe
+C:\AAF\AAFrep\elso\elso\obj\Debug\elso.pdb

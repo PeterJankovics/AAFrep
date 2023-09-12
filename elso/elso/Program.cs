@@ -96,8 +96,9 @@ namespace elso
                     Console.WriteLine(szam5);
                 }
                 szam5++;
-
             }
+
+
 
 
 

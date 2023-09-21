@@ -86,7 +86,7 @@ int szam4 = 0;
 Console.Write("kerek egy szamot: ");
 szam4= Convert.ToInt32(Console.ReadLine());
 int p = 0;
-for (int i < 100000; i > 10000; i--)
+for (int i = 100000; i > 10000; i--)
 {
     if (i % szam4 == 0)
     {

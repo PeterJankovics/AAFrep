@@ -1,0 +1,14 @@
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\bin\Debug\net6.0\gyak3.exe
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\bin\Debug\net6.0\gyak3.deps.json
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\bin\Debug\net6.0\gyak3.runtimeconfig.json
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\bin\Debug\net6.0\gyak3.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\bin\Debug\net6.0\gyak3.pdb
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.GeneratedMSBuildEditorConfig.editorconfig
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.AssemblyInfoInputs.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.AssemblyInfo.cs
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.csproj.CoreCompileInputs.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\refint\gyak3.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.pdb
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\gyak3.genruntimeconfig.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyak3\gyak3\obj\Debug\net6.0\ref\gyak3.dll

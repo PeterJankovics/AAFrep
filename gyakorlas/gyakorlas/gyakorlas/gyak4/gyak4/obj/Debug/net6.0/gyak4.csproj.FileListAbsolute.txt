@@ -1,0 +1,14 @@
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\bin\Debug\net6.0\gyak4.exe
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\bin\Debug\net6.0\gyak4.deps.json
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\bin\Debug\net6.0\gyak4.runtimeconfig.json
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\bin\Debug\net6.0\gyak4.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\bin\Debug\net6.0\gyak4.pdb
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.GeneratedMSBuildEditorConfig.editorconfig
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.AssemblyInfoInputs.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.AssemblyInfo.cs
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.csproj.CoreCompileInputs.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\refint\gyak4.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.pdb
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\gyak4.genruntimeconfig.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak4\gyak4\obj\Debug\net6.0\ref\gyak4.dll

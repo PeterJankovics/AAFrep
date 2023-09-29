@@ -89,7 +89,14 @@ for (int i = szam19; i <= szam20; i++)
 }*/
 
 //11
-Console.Write("kerek egy szamot: ");
+/*Console.Write("kerek egy szamot: ");
 int szam19 = Convert.ToInt32(Console.ReadLine());
 Console.Write("kerek egy szamot: ");
-int szam20 = Convert.ToInt32(Console.ReadLine());
+int szam20 = Convert.ToInt32(Console.ReadLine());*/
+
+
+Console.WriteLine("szoveg {0%} szoveg {1}",12,3.4);
+
+int a = 10;
+double b = 2.3;
+Console.WriteLine($"szoveg {a/2} szoveg {b}");

@@ -95,8 +95,39 @@ Console.Write("kerek egy szamot: ");
 int szam20 = Convert.ToInt32(Console.ReadLine());*/
 
 
-Console.WriteLine("szoveg {0%} szoveg {1}",12,3.4);
+/*Console.WriteLine("szoveg {0%} szoveg {1}",12,3.4);
 
 int a = 10;
 double b = 2.3;
 Console.WriteLine($"szoveg {a/2} szoveg {b}");
+
+
+Console.Write("Kérek egy befogót(a):");
+int szam1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Kérek még egy befogót(b):");
+int szam2 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Ez az átfogó(c):" + szam1 * szam2);*/
+
+int a = 3;
+int b = 4;
+double c = Math.Sqrt(a*a+b+b);
+//Console.WriteLine(c);
+Console.WriteLine("{0,5} {1,5} {2,5}", "a","b","c");
+for (int i = 1; i < 50; i++)
+{
+    for (int k = i; k < 50; k++)
+    {
+        c = Math.Sqrt(i*i+k*k);
+        if(c % 1 == 0)
+        {
+            Console.WriteLine("{0,5} {1,5} {2,5}", i,k,c);
+        }
+    }
+}
+//elso 10 szam negyzetgyoke ke tizedes jegyig
+
+for (int i = 0; i < 11; i++)
+{
+    Console.WriteLine("{0:0.00}",Math.Sqrt(i));
+}

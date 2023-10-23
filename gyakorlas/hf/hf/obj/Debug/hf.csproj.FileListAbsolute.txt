@@ -1,0 +1,10 @@
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.csproj.AssemblyReference.cache
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.Form1.resources
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.Properties.Resources.resources
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.csproj.GenerateResource.cache
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.csproj.CoreCompileInputs.cache
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\bin\Debug\hf.exe.config
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\bin\Debug\hf.exe
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\bin\Debug\hf.pdb
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.exe
+C:\AAF\AAFrep\AAFrep\gyakorlas\hf\hf\obj\Debug\hf.pdb

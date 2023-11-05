@@ -30,5 +30,9 @@ string[] words = File.ReadAllLines("szavak.txt");
 string azonos = "";
 for (int i = 0; i < szavak.Length; i++)
 {
-    
+    for (int e = 0; e < szavak.Length; e++)
+    {
+        if (szavak[i] == szavak[e]);
+
+    }
 }

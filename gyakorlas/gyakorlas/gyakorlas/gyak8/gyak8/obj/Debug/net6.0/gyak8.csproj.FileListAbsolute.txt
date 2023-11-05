@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\bin\Debug\net6.0\gyak8.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\bin\Debug\net6.0\gyak8.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\bin\Debug\net6.0\gyak8.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\bin\Debug\net6.0\gyak8.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\bin\Debug\net6.0\gyak8.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\refint\gyak8.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\gyak8.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyak8\gyak8\obj\Debug\net6.0\ref\gyak8.dll

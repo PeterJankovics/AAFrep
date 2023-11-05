@@ -1,0 +1,14 @@
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\bin\Debug\net6.0\gyakorlas elagazas.exe
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\bin\Debug\net6.0\gyakorlas elagazas.deps.json
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\bin\Debug\net6.0\gyakorlas elagazas.runtimeconfig.json
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\bin\Debug\net6.0\gyakorlas elagazas.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\bin\Debug\net6.0\gyakorlas elagazas.pdb
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.GeneratedMSBuildEditorConfig.editorconfig
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.AssemblyInfoInputs.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.AssemblyInfo.cs
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.csproj.CoreCompileInputs.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\refint\gyakorlas elagazas.dll
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.pdb
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\gyakorlas elagazas.genruntimeconfig.cache
+D:\jankovics peter\AAFrep\gyakorlas\gyakorlas\gyakorlas\gyakorlas elagazas\gyakorlas elagazas\obj\Debug\net6.0\ref\gyakorlas elagazas.dll

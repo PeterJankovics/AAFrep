@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\bin\Debug\net6.0\tomb3.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\bin\Debug\net6.0\tomb3.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\bin\Debug\net6.0\tomb3.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\bin\Debug\net6.0\tomb3.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\bin\Debug\net6.0\tomb3.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\refint\tomb3.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\tomb3.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\tomb3\tomb3\obj\Debug\net6.0\ref\tomb3.dll

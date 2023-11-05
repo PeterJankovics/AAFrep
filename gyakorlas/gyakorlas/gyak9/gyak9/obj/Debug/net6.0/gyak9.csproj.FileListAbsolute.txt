@@ -1,0 +1,4 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAf\AAFrep\gyakorlas\gyakorlas\gyak9\gyak9\obj\Debug\net6.0\gyak9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAf\AAFrep\gyakorlas\gyakorlas\gyak9\gyak9\obj\Debug\net6.0\gyak9.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAf\AAFrep\gyakorlas\gyakorlas\gyak9\gyak9\obj\Debug\net6.0\gyak9.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAf\AAFrep\gyakorlas\gyakorlas\gyak9\gyak9\obj\Debug\net6.0\gyak9.csproj.CoreCompileInputs.cache

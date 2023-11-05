@@ -1,0 +1,14 @@
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\bin\Debug\net6.0\hazi.exe
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\bin\Debug\net6.0\hazi.deps.json
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\bin\Debug\net6.0\hazi.runtimeconfig.json
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\bin\Debug\net6.0\hazi.dll
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\bin\Debug\net6.0\hazi.pdb
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfoInputs.cache
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfo.cs
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.csproj.CoreCompileInputs.cache
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.dll
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\refint\hazi.dll
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.pdb
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\hazi.genruntimeconfig.cache
+C:\11.progi\AAFrep\AAFrep\hf\hazi\hazi\obj\Debug\net6.0\ref\hazi.dll

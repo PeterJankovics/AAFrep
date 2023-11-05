@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\bin\Debug\net6.0\fájlkezeles.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\bin\Debug\net6.0\fájlkezeles.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\bin\Debug\net6.0\fájlkezeles.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\bin\Debug\net6.0\fájlkezeles.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\bin\Debug\net6.0\fájlkezeles.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\refint\fájlkezeles.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\fájlkezeles.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\gyakorlas\gyakorlas\gyakorlas\fájlkezeles\fájlkezeles\obj\Debug\net6.0\ref\fájlkezeles.dll

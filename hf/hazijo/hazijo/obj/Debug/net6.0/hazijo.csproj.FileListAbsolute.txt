@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\bin\Debug\net6.0\hazijo.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\bin\Debug\net6.0\hazijo.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\bin\Debug\net6.0\hazijo.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\bin\Debug\net6.0\hazijo.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\bin\Debug\net6.0\hazijo.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\refint\hazijo.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\hazijo.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\hf\hazijo\hazijo\obj\Debug\net6.0\ref\hazijo.dll

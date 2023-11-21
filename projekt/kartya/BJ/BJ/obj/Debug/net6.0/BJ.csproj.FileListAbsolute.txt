@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\bin\Debug\net6.0\BJ.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\bin\Debug\net6.0\BJ.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\bin\Debug\net6.0\BJ.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\bin\Debug\net6.0\BJ.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\bin\Debug\net6.0\BJ.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\refint\BJ.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\BJ.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\projekt\kartya\BJ\BJ\obj\Debug\net6.0\ref\BJ.dll

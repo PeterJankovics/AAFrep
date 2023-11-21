@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\bin\Debug\net6.0\lista2.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\bin\Debug\net6.0\lista2.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\bin\Debug\net6.0\lista2.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\bin\Debug\net6.0\lista2.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\bin\Debug\net6.0\lista2.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\refint\lista2.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\lista2.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\lista\lista2\lista2\obj\Debug\net6.0\ref\lista2.dll

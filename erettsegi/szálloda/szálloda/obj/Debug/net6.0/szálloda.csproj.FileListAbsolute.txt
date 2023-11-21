@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\bin\Debug\net6.0\szálloda.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\bin\Debug\net6.0\szálloda.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\bin\Debug\net6.0\szálloda.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\bin\Debug\net6.0\szálloda.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\bin\Debug\net6.0\szálloda.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\refint\szálloda.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\szálloda.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\szálloda\szálloda\obj\Debug\net6.0\ref\szálloda.dll

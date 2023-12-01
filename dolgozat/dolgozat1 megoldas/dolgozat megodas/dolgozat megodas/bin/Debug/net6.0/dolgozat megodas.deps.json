@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dolgozat megodas/1.0.0": {
+        "runtime": {
+          "dolgozat megodas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dolgozat megodas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

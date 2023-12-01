@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\bin\Debug\net6.0\dolgozat megodas.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\bin\Debug\net6.0\dolgozat megodas.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\bin\Debug\net6.0\dolgozat megodas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\bin\Debug\net6.0\dolgozat megodas.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\bin\Debug\net6.0\dolgozat megodas.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\refint\dolgozat megodas.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\dolgozat megodas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat1 megoldas\dolgozat megodas\dolgozat megodas\obj\Debug\net6.0\ref\dolgozat megodas.dll

@@ -35,14 +35,14 @@ for (int i = 0; i < 500; i++)
 StreamWriter iras = new StreamWriter("szamok.csv");
 for (int i = 0; i < szamok.Count; i++)
 {
-    iras.WriteLine(szamok);
+    iras.WriteLine(szamok[i]);
 }
 /*for (int i = 0; i < 500; i++)
 {
    
 }*/
 
-iras.Close();
+//iras.Close();
 
 Console.WriteLine(paratlanszam(szamok)  + " páratlan szám van a listában.");
 
@@ -76,7 +76,7 @@ for (int i = 0; i < szamok.Count; i++)
 }
 Console.WriteLine(harommalkezdodo + " harommal kezdodo szam van.");
 
-List<int> egy = new List<int>();
+/*List<int> egy = new List<int>();
 List<int> ketto = new List<int>();
 List<int> harom = new List<int>();
 List<int> negy = new List<int>();
@@ -129,5 +129,13 @@ for (int i = 0; i < szamok.Count; i++)
     }
 
 }
+*/
 
+for (int i = 0; i < szamok.Count; i++)
+{
+    iras = new StreamWriter(szamok[i] / 10000 + ".csv", true);
+    iras.WriteLine();
+    iras.Close();
+}
 
+List<string>[] szamlista = new List<string>[10];

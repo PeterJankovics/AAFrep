@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\bin\Debug\net6.0\dolgozat2.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\bin\Debug\net6.0\dolgozat2.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\bin\Debug\net6.0\dolgozat2.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\bin\Debug\net6.0\dolgozat2.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\bin\Debug\net6.0\dolgozat2.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\refint\dolgozat2.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\dolgozat2.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\dolgozat\dolgozat2\dolgozat2\obj\Debug\net6.0\ref\dolgozat2.dll

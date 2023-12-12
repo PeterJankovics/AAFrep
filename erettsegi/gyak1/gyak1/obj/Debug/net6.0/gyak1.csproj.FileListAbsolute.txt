@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\bin\Debug\net6.0\gyak1.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\bin\Debug\net6.0\gyak1.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\bin\Debug\net6.0\gyak1.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\bin\Debug\net6.0\gyak1.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\bin\Debug\net6.0\gyak1.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\refint\gyak1.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\gyak1.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\gyak1\gyak1\obj\Debug\net6.0\ref\gyak1.dll

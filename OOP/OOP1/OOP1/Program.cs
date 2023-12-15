@@ -1,9 +1,11 @@
-﻿class Auto
+﻿using OOP1;
+
+class Auto
 {
     public int kerekszam = 4;
     public void dudal()
     {
-        Console.WriteLine("tututttttttuuuuuuu");
+        Console.WriteLine("tutttttttuuuuuuu");
     }
     private string _tulaj;
     public string tulajdonos
@@ -14,7 +16,14 @@
         }
         set
         {
-            _tulaj = value;
+            if (value == "Bence")
+            {
+                Console.WriteLine("NEMNEM");
+            }
+            else
+            {
+                _tulaj = value;
+            }
         }
     }
 }
@@ -29,6 +38,9 @@ class Program
         Console.WriteLine(kocsi.tulajdonos);
         kocsi.tulajdonos = "Bence";
         Console.WriteLine(kocsi.tulajdonos);
+
+        Laci laci = new Laci();
+        laci.sug();
 
     }
 }

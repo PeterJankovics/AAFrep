@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\bin\Debug\net6.0\kopapirollo.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\bin\Debug\net6.0\kopapirollo.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\bin\Debug\net6.0\kopapirollo.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\bin\Debug\net6.0\kopapirollo.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\bin\Debug\net6.0\kopapirollo.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\refint\kopapirollo.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\kopapirollo.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\OOP\kopapirollo\kopapirollo\obj\Debug\net6.0\ref\kopapirollo.dll

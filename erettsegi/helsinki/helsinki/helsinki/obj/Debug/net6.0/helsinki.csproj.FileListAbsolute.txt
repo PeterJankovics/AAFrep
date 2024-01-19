@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\bin\Debug\net6.0\helsinki.exe
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\bin\Debug\net6.0\helsinki.deps.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\bin\Debug\net6.0\helsinki.runtimeconfig.json
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\bin\Debug\net6.0\helsinki.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\bin\Debug\net6.0\helsinki.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\refint\helsinki.dll
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.pdb
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\helsinki.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\helsinki\helsinki\helsinki\obj\Debug\net6.0\ref\helsinki.dll

@@ -1,0 +1,14 @@
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\bin\Debug\net6.0\bj.exe
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\bin\Debug\net6.0\bj.deps.json
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\bin\Debug\net6.0\bj.runtimeconfig.json
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\bin\Debug\net6.0\bj.dll
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\bin\Debug\net6.0\bj.pdb
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.AssemblyInfoInputs.cache
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.AssemblyInfo.cs
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.csproj.CoreCompileInputs.cache
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.dll
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\refint\bj.dll
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.pdb
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\bj.genruntimeconfig.cache
+C:\11.progi\AAFrep\gyakorlas\otthoni\bj\bj\obj\Debug\net6.0\ref\bj.dll

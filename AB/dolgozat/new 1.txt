@@ -1,0 +1,14 @@
+CREATE DATABASE gyumolcsok DEFAULT CHARSET=utf8 COLLATE=utf8_hungarian_ci;
+USE gyumolcsok;
+
+CREATE TABLE gyumolcsok (
+	ID int NOT NULL,
+	datum DATE(50), 
+	lada int(255), 
+	kg int(255), 
+	tipus VARCHAR(255)
+	PRIMARY KEY (ID)
+);
+
+DROP DATABASE gyumolcsosok;
+	

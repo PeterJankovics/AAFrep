@@ -1,0 +1,14 @@
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\bin\Debug\net6.0\fogadoora2.exe
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\bin\Debug\net6.0\fogadoora2.deps.json
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\bin\Debug\net6.0\fogadoora2.runtimeconfig.json
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\bin\Debug\net6.0\fogadoora2.dll
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\bin\Debug\net6.0\fogadoora2.pdb
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.AssemblyInfoInputs.cache
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.AssemblyInfo.cs
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.csproj.CoreCompileInputs.cache
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.dll
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\refint\fogadoora2.dll
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.pdb
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\fogadoora2.genruntimeconfig.cache
+C:\11.progi\AAFrep\erettsegi\fogadoora2\fogadoora2\fogadoora2\obj\Debug\net6.0\ref\fogadoora2.dll

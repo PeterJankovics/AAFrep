@@ -1,0 +1,4 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\interface\interface gyak\interface gyak\obj\Debug\net6.0\interface gyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\interface\interface gyak\interface gyak\obj\Debug\net6.0\interface gyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\interface\interface gyak\interface gyak\obj\Debug\net6.0\interface gyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\interface\interface gyak\interface gyak\obj\Debug\net6.0\interface gyak.csproj.CoreCompileInputs.cache

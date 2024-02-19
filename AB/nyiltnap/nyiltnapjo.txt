@@ -1,3 +1,21 @@
+
+Adatforrás
+Péter Papp
+•
+febr. 5. (Szerkesztve: 12:31)
+
+nyiltnap.sql
+SQL
+
+nyiltnap.sql
+SQL
+
+nyiltnap.sql
+SQL
+Kurzusmegjegyzések
+
+Kurzusmegjegyzés hozzáadása…
+
 \C latin2
 
 DROP DATABASE nyiltnap;
@@ -133,6 +151,9 @@ UPDATE eredeti SET tantargy="angol nyelv" WHERE tantargy="angol";
 UPDATE eredeti SET tantargy="német nyelv" WHERE tantargy="német";
 UPDATE eredeti SET tantargy="IKT projektmunka" WHERE tantargy="IKT Projektmunka,";
 
+
+
+
 INSERT INTO tantargy (nev)
 	SELECT DISTINCT tantargy 
 		FROM eredeti 
@@ -140,10 +161,71 @@ INSERT INTO tantargy (nev)
 		
 ALTER TABLE eredeti ADD tantargyid int; 
 
-SELECT tantargy.id FROM tantargy, eredeti WHERE nev = tantargy;
+SELECT tantargy.id FROM tantargy,eredeti WHERE nev=tantargy;
 
+INSERT INTO oktato (nev)
+	SELECT DISTINCT ofo
+		FROM eredeti
+		ORDER BY ofo;
+
+	SELECT DISTINCT ofo, id
+		FROM oktato.nev = ofo
+		ORDER BY ofo;
+
+/*ezt enyhén túlgondoltam...
 UPDATE eredeti 
-	SET tantargyid = (SELECT tantargy.id FROM tantargy, eredeti WHERE nev = tantargy)
-	WHERE tantargy = (SELECT tantargy.id FROM tantargy, eredeti WHERE nev = tantargy LIMIT 1);
+	SET tantargyid=(
+		SELECT tantargy.id 
+			FROM tantargy,eredeti 
+			WHERE nev=tantargy LIMIT 1);
+	WHERE tantargy=(
+		SELECT tantargy.id 
+			FROM tantargy,eredeti 
+			WHERE nev=tantargy LIMIT 1);
+*/
+UPDATE eredeti,tantargy 
+	SET tantargyid=tantargy.id 
+	WHERE tantargy=nev;
+			
+SELECT tantargy,nev 
+	FROM tantargy,eredeti 
+	WHERE tantargy.id=tantargyid;
+			
 
-SELECT tantargy, nev FROM tantargy, eredeti WHERE tantargy.id = tantargyid;
+INSERT INTO oktato (nev)
+	SELECT DISTINCT oktato 
+		FROM eredeti 
+		ORDER BY oktato;
+		
+ALTER TABLE eredeti ADD oktatoid int; 
+
+UPDATE eredeti,oktato 
+	SET oktatoid=oktato.id 
+	WHERE oktato=nev;
+SELECT oktato,nev 
+	FROM oktato,eredeti 
+	WHERE oktato.id=oktatoid;
+
+INSERT INTO agazat (nev)
+	SELECT DISTINCT agazat 
+		FROM eredeti 
+		ORDER BY agazat;
+		
+ALTER TABLE eredeti ADD agazatid int; 
+
+UPDATE eredeti,agazat 
+	SET agazatid=agazat.id 
+	WHERE agazat=nev;
+SELECT agazat,nev 
+	FROM agazat,eredeti 
+	WHERE agazat.id=agazatid;
+
+
+INSERT INTO oktato2tantargy (oktatoid,tantargyid)
+	SELECT DISTINCT oktatoid,tantargyid 
+		FROM eredeti;
+
+
+INSERT INTO osztaly2agazat (osztalyid,agazatid)
+	SELECT DISTINCT osztalyid,agazatid 
+		FROM eredeti;

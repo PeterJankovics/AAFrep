@@ -128,3 +128,13 @@ VALUES("1","9.H","gimnázium","földrajz ","Vránicsné Bődi Ildikó ","","2023
 ("4","12.C","informatika és távközlés","IKT Projektmunka,","Mészáros róbert","Madarász Péter","2023.11.29.");
 
 SELECT * FROM eredeti;
+
+UPDATE eredeti SET tantargy=TRIM(tantargy);
+UPDATE eredeti SET tantargy="angol nyelv" WHERE tantargy="angol";
+UPDATE eredeti SET tantargy="német nyelv" WHERE tantargy="német";
+UPDATE eredeti SET tantargy="IKT Projektmunka" WHERE tantargy="IKT Projektmunka,";
+
+INSERT INTO tantargy (nev)
+	SELECT DISTINCT tantargy FROM eredeti ORDER BY tantargy;
+
+ALTER TABLE eredeti ADD tantargyid int;

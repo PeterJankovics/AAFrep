@@ -1,0 +1,38 @@
+﻿<Window x:Class="gyak2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gyak2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="kep1" HorizontalAlignment="Left" Height="100" Margin="104,50,0,0" VerticalAlignment="Top" Width="100" Source="/magyar_cimer.jpg"/>
+        <Image x:Name="kep4" HorizontalAlignment="Left" Height="100" Margin="622,43,0,0" VerticalAlignment="Top" Width="100" Source="/IMG_20220523_131210.jpg"/>
+        <Image x:Name="kep2" HorizontalAlignment="Left" Height="100" Margin="91,315,0,0" VerticalAlignment="Top" Width="100" Source="/disz1-removebg-preview (1).png"/>
+        <Image x:Name="kep3" HorizontalAlignment="Left" Height="100" Margin="609,315,0,0" VerticalAlignment="Top" Width="100" Source="/gomb-removebg-preview.png"/>
+        <Slider x:Name="csuszka2" HorizontalAlignment="Left" Margin="78,223,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged_1">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-91.002"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider x:Name="csuszka1" HorizontalAlignment="Center" Margin="0,93,0,0" VerticalAlignment="Top" Width="120" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged_2"/>
+        <Slider x:Name="csuszka4" HorizontalAlignment="Left" Margin="659,217,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged_3">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="91.17"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider x:Name="csuszka3" HorizontalAlignment="Left" Margin="371,355,0,0" VerticalAlignment="Top" Width="120" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged"/>
+
+    </Grid>
+</Window>

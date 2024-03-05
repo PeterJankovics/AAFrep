@@ -7,22 +7,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="disz1-removebg-preview %281%29.png" />
-    <None Remove="disz1-removebg-preview.png" />
-    <None Remove="Duna-terkep.png" />
-    <None Remove="gomb-removebg-preview.png" />
-    <None Remove="IMG_20220523_131210.jpg" />
-    <None Remove="magyar_cimer.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Resource Include="disz1-removebg-preview (1).png" />
-    <Resource Include="disz1-removebg-preview.png" />
-    <Resource Include="Duna-terkep.png" />
-    <Resource Include="gomb-removebg-preview.png" />
-    <Resource Include="IMG_20220523_131210.jpg" />
-    <Resource Include="magyar_cimer.jpg" />
-  </ItemGroup>
-
 </Project>

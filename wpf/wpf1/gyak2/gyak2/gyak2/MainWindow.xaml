@@ -7,32 +7,36 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Image x:Name="kep1" HorizontalAlignment="Left" Height="100" Margin="104,50,0,0" VerticalAlignment="Top" Width="100" Source="/magyar_cimer.jpg"/>
-        <Image x:Name="kep4" HorizontalAlignment="Left" Height="100" Margin="622,43,0,0" VerticalAlignment="Top" Width="100" Source="/IMG_20220523_131210.jpg"/>
-        <Image x:Name="kep2" HorizontalAlignment="Left" Height="100" Margin="91,315,0,0" VerticalAlignment="Top" Width="100" Source="/disz1-removebg-preview (1).png"/>
-        <Image x:Name="kep3" HorizontalAlignment="Left" Height="100" Margin="609,315,0,0" VerticalAlignment="Top" Width="100" Source="/gomb-removebg-preview.png"/>
-        <Slider x:Name="csuszka2" HorizontalAlignment="Left" Margin="78,223,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged_1">
-            <Slider.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="-91.002"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Slider.RenderTransform>
-        </Slider>
-        <Slider x:Name="csuszka1" HorizontalAlignment="Center" Margin="0,93,0,0" VerticalAlignment="Top" Width="120" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged_2"/>
-        <Slider x:Name="csuszka4" HorizontalAlignment="Left" Margin="659,217,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged_3">
-            <Slider.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="91.17"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Slider.RenderTransform>
-        </Slider>
-        <Slider x:Name="csuszka3" HorizontalAlignment="Left" Margin="371,355,0,0" VerticalAlignment="Top" Width="120" Maximum="1" Value="1" LargeChange="0.1" ValueChanged="Slider_ValueChanged"/>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="Elso ful">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Masodik ful">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem HorizontalAlignment="Center" Height="20" Header="Harmadik ful" VerticalAlignment="Center" Width="80">
+                <Grid Background="#FFE5E5E5" Margin="18,0,81,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="159*"/>
+                        <ColumnDefinition Width="635*"/>
+                    </Grid.ColumnDefinitions>
+                    <WrapPanel Margin="0,0,17,0">
+                        <RadioButton x:Name="elso" Content="elso" GroupName="g1"/>
+                        <RadioButton x:Name="masodik" Content="masodik" GroupName="g1"/>
+                        <RadioButton x:Name="harmadik" Content="harmadik" GroupName="g1"/>
+                        <RadioButton x:Name="negyedik" Content="negyedik" GroupName="g1"/>
+                    </WrapPanel>
+
+                    <WrapPanel Grid.Column="2">
+                        <RadioButton x:Name="otodik" Content="elso" GroupName="g1"/>
+                        <RadioButton x:Name="hatodik" Content="masodik" GroupName="g1"/>
+                        <RadioButton x:Name="hetedik" Content="harmadik" GroupName="g1"/>
+                        <RadioButton x:Name="nyolcadik" Content="negyedik" GroupName="g1"/>
+                    </WrapPanel>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
 
     </Grid>
 </Window>

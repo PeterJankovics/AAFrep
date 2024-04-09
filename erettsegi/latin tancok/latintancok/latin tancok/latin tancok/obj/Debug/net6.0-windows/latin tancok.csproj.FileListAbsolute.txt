@@ -1,0 +1,4 @@
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\latin tancok\latintancok\latin tancok\latin tancok\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\latin tancok\latintancok\latin tancok\latin tancok\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\latin tancok\latintancok\latin tancok\latin tancok\obj\Debug\net6.0-windows\latin tancok_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\jankovics peter\AAF\AAFrep\erettsegi\latin tancok\latintancok\latin tancok\latin tancok\obj\Debug\net6.0-windows\latin tancok_MarkupCompile.lref

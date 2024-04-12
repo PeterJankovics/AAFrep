@@ -12,9 +12,9 @@
                 <Grid Background="#FFE5E5E5" Margin="-3,0,-8,0">
                     <Label x:Name="label" Content="Szamlalo:" HorizontalAlignment="Left" Margin="41,25,0,0" VerticalAlignment="Top"/>
                     <Label x:Name="label1" Content="Nevezo:" HorizontalAlignment="Left" Margin="41,51,0,0" VerticalAlignment="Top"/>
-                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="97,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-                    <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="97,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-                    <Separator HorizontalAlignment="Left" Margin="96,33,0,0" VerticalAlignment="Top" Height="35" Width="121"/>
+                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="97,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
+                    <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="97,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
+                    <Separator HorizontalAlignment="Left" Margin="96,47,0,0" VerticalAlignment="Top" Height="8" Width="121"/>
                     <Label x:Name="label2" Content="=" HorizontalAlignment="Left" Margin="232,38,0,0" VerticalAlignment="Top" Height="27" Width="16"/>
                     <Label x:Name="label3" Content="Legegyszerubb alak:" HorizontalAlignment="Left" Margin="32,133,0,0" VerticalAlignment="Top"/>
                     <Separator HorizontalAlignment="Left" Margin="154,139,0,0" VerticalAlignment="Top" Height="13" Width="86"/>
@@ -31,9 +31,9 @@
                 <Grid Background="#FFE5E5E5">
                     <Label x:Name="label_Copy" Content="Szamlalo:" HorizontalAlignment="Left" Margin="41,25,0,0" VerticalAlignment="Top"/>
                     <Label x:Name="label1_Copy" Content="Nevezo:" HorizontalAlignment="Left" Margin="41,51,0,0" VerticalAlignment="Top"/>
-                    <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Margin="97,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-                    <TextBox x:Name="textBox1_Copy" HorizontalAlignment="Left" Margin="97,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-                    <Separator HorizontalAlignment="Left" Margin="96,33,0,0" VerticalAlignment="Top" Height="35" Width="121"/>
+                    <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Margin="97,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="textBox_Copy_TextChanged"/>
+                    <TextBox x:Name="textBox1_Copy" HorizontalAlignment="Left" Margin="97,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="textBox_Copy_TextChanged"/>
+                    <Separator HorizontalAlignment="Left" Margin="96,47,0,0" VerticalAlignment="Top" Height="8" Width="121"/>
                     <Separator HorizontalAlignment="Left" Margin="159,139,0,0" VerticalAlignment="Top" Height="13" Width="86"/>
                     <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="184,125,0,0" TextWrapping="Wrap" Text="szamlalo" VerticalAlignment="Top"/>
                     <TextBlock x:Name="textBlock1_Copy1" HorizontalAlignment="Left" Margin="188,146,0,0" TextWrapping="Wrap" Text="nevezo" VerticalAlignment="Top"/>
@@ -64,7 +64,7 @@
             </TabItem>
             <TabItem HorizontalAlignment="Center" Height="20" Header="7. Feladat" VerticalAlignment="Center">
                 <Grid Background="#FFE5E5E5">
-                    <Button x:Name="button" Content="CSINALD" HorizontalAlignment="Center" Height="150" VerticalAlignment="Center" Width="245"/>
+                    <Button x:Name="button" Content="CSINÁLD!" HorizontalAlignment="Center" Height="150" VerticalAlignment="Center" Width="245" FontSize="40"/>
                 </Grid>
             </TabItem>
         </TabControl>

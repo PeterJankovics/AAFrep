@@ -27,7 +27,7 @@
                     <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="265,44,0,0" TextWrapping="Wrap" Text="eredmeny" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="4. Feladat">
+            <TabItem x:Name="tab4" Header="4. Feladat" IsEnabled="False">
                 <Grid Background="#FFE5E5E5">
                     <Label x:Name="label_Copy" Content="Szamlalo:" HorizontalAlignment="Left" Margin="41,25,0,0" VerticalAlignment="Top"/>
                     <Label x:Name="label1_Copy" Content="Nevezo:" HorizontalAlignment="Left" Margin="41,51,0,0" VerticalAlignment="Top"/>

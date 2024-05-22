@@ -1,10 +1,5 @@
 \C latin2
 
-CREATE DATABASE operett DEFAULT CHARSET utf8 COLLATE utf8_hungarian_ci;
-
-SELECT cim FROM mu where ev=1916 ORDER BY cim;
-
-USE operett;
 
 CREATE TABLE `kapcsolat` (
   `id` int(11) NOT NULL,
